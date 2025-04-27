@@ -13,7 +13,7 @@ Pour télécharger le projet **Pharmacie**, vous pouvez suivre les étapes suiva
 Si vous avez **Git** installé, vous pouvez cloner ce projet en utilisant la commande suivante dans votre terminal ou invite de commande :
 
 ```bash
-git clone https://votre-url-de-depot.git
+git clone https://github.com/Zeini-23025/pharmacie
 ```
 
 #### Télécharger en ZIP
@@ -26,7 +26,7 @@ Vous pouvez aussi télécharger le projet en format **ZIP** :
 
 Si vous souhaitez télécharger un fichier spécifique (par exemple, un fichier **SQL** pour la base de données ou un autre fichier), cliquez sur le lien ci-dessous pour le télécharger :
 
-[**Télécharger le fichier ZIP de la base de données**](#)  *(Remplacez ce lien avec le lien réel pour le fichier SQL)*
+[**Télécharger le fichier ZIP de la base de données**](pharmacie_db.sql)  *(Remplacez ce lien avec le lien réel pour le fichier SQL)*
 
 #### Instructions pour le fichier SQL
 1. **Téléchargez le fichier SQL** contenant la structure de la base de données.
@@ -66,4 +66,4 @@ Si vous utilisez **XAMPP**, ouvrez le panneau de contrôle et démarrez **Apache
 
 ## Auteurs
 
-- **Nom de l'auteur** : Votre nom ou équipe de développement.
+- **Nom de l'auteur** :Zeini Cheikh Sidi Ely.
