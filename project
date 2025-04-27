@@ -1,0 +1,20 @@
+/pharmacie_project
+│
+├── /employe                   # Dossier pour la gestion des employés
+│
+├── /historique                # Dossier pour l'historique des ventes ou actions
+│
+├── /medicament                # Dossier pour la gestion des médicaments
+│
+├── /src                       # Dossier pour les fichiers sources (peut contenir des scripts PHP supplémentaires)
+│
+├── /users                     # Dossier pour la gestion des utilisateurs
+│
+├── db.php                     # Fichier de connexion à la base de données
+├── index.php                  # Page d'accueil (présente la pharmacie et les informations générales)
+├── login.php                  # Page de connexion
+├── logout.php                 # Page de déconnexion
+├── signup.php                 # Page d'inscription
+├── navbar.php                 # Composant de la barre de navigation (inclus dans d'autres fichiers)
+├── footer.php                 # Composant du pied de page (inclus dans d'autres fichiers)
+README.md
